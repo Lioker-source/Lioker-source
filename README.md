@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Lioker-source
+- 👀 I’m interested in game-development and other cool stuff
+- 🌱 I’m currently learning Godot
+- 💞️ I’m looking to collaborate on a school project in godot
